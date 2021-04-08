@@ -17,7 +17,7 @@ weight = 30
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
-+ **[April 2021]** Our paper titled Improving Solar Cell Metallization Designs using Convolutional Neural Networks has been accepted at Deep Learning for Simulation (SimDL) Workshop at International Conference on Learning Representations. <a href = "https://simdl.github.io/">**(ICLR) 2021** </a>.
++ **[April 2021]** Our paper titled Improving Solar Cell Metallization Designs using Convolutional Neural Networks has been accepted at Deep Learning for Simulation (SimDL) Workshop at International Conference on Learning Representations. <a href = "https://simdl.github.io/">**(ICLR)** </a>.
 
 + **[February 2021]** Our paper titled Rotation Equivariant Siamese Networks for Tracking has been accepted at <a href = "https://arxiv.org/pdf/2012.13078.pdf"> CVPR </a>.
 
