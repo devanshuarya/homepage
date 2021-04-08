@@ -24,7 +24,7 @@ bio: My research interests include learning representations for multi-modal data
 interests:
 - Representation Learning 
 - Hypergraph Neural Networks
-- Multimedia Analytics for Forensics
+- Multi-Object Tracking
 
 education:
   courses:
