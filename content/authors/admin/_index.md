@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: PhD in Artifical Intelligence
-    institution: Unioversity of Amsterdam
+    institution: University of Amsterdam
     year: 2017-Ongoing
   - course: B.Tech-M.Tech, Electrical Engineering
     institution: Indian Institute of Technology, Kanpur
