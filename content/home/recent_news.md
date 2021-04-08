@@ -21,4 +21,4 @@ weight = 30
 
 + **[February 2021]** Our paper titled Rotation Equivariant Siamese Networks for Tracking has been accepted at IEEE conference on Computer Vision and Pattern Recognition <a href = "https://arxiv.org/pdf/2012.13078.pdf"> CVPR </a>.
 
-+ **[November 2020]** I have statrted as Deep Learning Research Intern at <a href = "https://www.serket-tech.com/"> Serket Tech</a>.
++ **[November 2020]** Joined a livestock monitoring startup as Deep Learning Research Intern at <a href = "https://www.serket-tech.com/"> Serket Tech</a>.
