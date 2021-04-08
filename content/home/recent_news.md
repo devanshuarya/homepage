@@ -17,8 +17,8 @@ weight = 30
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
-+ **[June 2020]** Our paper titled Fusing Structural and Functional MRIs using Graph Convolutional Networks for Autism Classification  has been accepted at <a href = "https://openreview.net/pdf?id=EKu4FU5s4"> Medical Imaging with Deep Learning **(MIDL)**</a>.
++ **[April 2021]** Our paper titled Improving Solar Cell Metallization Designs using Convolutional Neural Networks has been accepted at Deep Learning for Simulation (SimDL) Workshop at International Conference on Learning Representations. <a href = "https://simdl.github.io/">**(ICLR) 2021** </a>.
 
-+ **[April 2020]** Presented our work on Learning Represetnations in Hypergraphs at <a href = "https://geometric-relational-dl.github.io/">ELLIS Workshop on Geometric and Relational Deep Learning </a>.
++ **[February 2021]** Our paper titled Rotation Equivariant Siamese Networks for Tracking has been accepted at <a href = "https://arxiv.org/pdf/2012.13078.pdf"> CVPR </a>.
 
-+ **[August 2019]** Our paper titled HyperLearn A Distributed Approach for Representation Learning in Datasets With Many Modalities has been accepted as **Brave New Idea** at <a href = "https://dl.acm.org/doi/pdf/10.1145/3343031.3350572"> ACM Multimedia </a>.
++ **[November 2020]** I have statrted as Deep Learning Research Intern at <a href = "https://www.serket-tech.com/"> Serket Tech</a>.
